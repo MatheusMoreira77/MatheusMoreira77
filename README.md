@@ -29,8 +29,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheussantosmoreira&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantosmoreira&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusMoreira77&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMoreira77&layout=compact&theme=radical" height="165">
+</p>
 </p>
 
 ---
