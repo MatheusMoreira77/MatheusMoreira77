@@ -38,7 +38,7 @@
 
 ## 📫 Como me encontrar
 
-- 💼 LinkedIn: [linkedin.com/in/matheussantosmoreira](https://www.linkedin.com/in/matheus-santos-moreira-0a0812261/) *(se tiver)*
+- 💼 LinkedIn: [linkedin.com/in/matheussantosmoreira](https://www.linkedin.com/in/matheus-santos-moreira-0a0812261/)
 - ✉️ E-mail: matheussmoreira7@gmail.com
 
 ---
