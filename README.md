@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Matheus Santos Moreira 👋</h1>
 
 <p align="center">
-  🔥 Programador focado em <strong>Python</strong> e <strong>SQL/strong><br>
+  🔥 Programador focado em <strong>Python</strong> e <strong>SQL</strong><br>
   🎯 Sempre buscando evoluir e criar projetos úteis<br>
   📚 Explorando o mundo da tecnologia, segurança e desenvolvimento
 </p>
